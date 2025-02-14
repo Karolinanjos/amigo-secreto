@@ -5,36 +5,19 @@ O projeto visa criar uma página web dinâmica, onde os usuários podem adiciona
 
 ## Funcionalidades do Projeto
 
--Adicionar nomes: Usuários podem inserir o nome de um amigo em um campo de texto e adicionar à lista visível clicando em "Adicionar".
+- Adicionar nomes: Usuários podem inserir o nome de um amigo em um campo de texto e adicionar à lista visível clicando em "Adicionar".
 
--Validar entrada: Se o campo de texto estiver vazio, o programa exibe um alerta solicitando um nome válido.
+- Validar entrada: Se o campo de texto estiver vazio, o programa exibe um alerta solicitando um nome válido.
 
--Visualizar a lista: Os nomes inseridos são exibidos em uma lista abaixo do campo de entrada.
+- Visualizar a lista: Os nomes inseridos são exibidos em uma lista abaixo do campo de entrada.
 
--Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista é selecionado aleatoriamente e exibido na página.
+- Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista é selecionado aleatoriamente e exibido na página.
 
-## Objetivos Acadêmicos do Projeto
+## Ferramentas e Tecnologias
+<img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
 
-Analisar o código HTML para entender sua estrutura e planejar a funcionalidade da aplicação.
+## Deploy do Projeto
 
-Declarar variáveis em JavaScript para armazenar elementos recuperados da página.
-
-Criar funções para manter o código limpo e dinâmico, evitando repetições desnecessárias.
-
-Recuperar elementos HTML utilizando document.getElementById().
-
-Criar e manipular arrays.
-
-Recuperar elementos HTML utilizando querySelector().
-
-Utilizar condicionais e loops.
-
-Aplicar o algoritmo Fisher-Yates para realizar o sorteio aleatório da lista de amigos.
-
-## Validações do Projeto
-
-Exigir um número mínimo de participantes.
-
-Não permitir a adição de nomes se o campo de texto estiver vazio.
-
-Evitar nomes duplicados na lista através da verificação no array e utilização da funcionalidade toUpperCase().
+## Considerações finais
+Concluí meu primeiro desafio no projeto ONE (Oracle Next Education), uma incrível parceria entre Oracle e a Alura!
+Esse desafio foi uma excelente oportunidade no aprimoramento de minhas habilidades de programação.
