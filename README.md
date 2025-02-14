@@ -17,6 +17,7 @@ O projeto visa criar uma página web dinâmica, onde os usuários podem adiciona
 <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
 
 ## Deploy do Projeto
+[Challenge amigo secreto](https://karolinanjos.github.io/amigo-secreto/) 
 
 ## Considerações finais
 Concluí meu primeiro desafio no projeto ONE (Oracle Next Education), uma incrível parceria entre Oracle e a Alura!
